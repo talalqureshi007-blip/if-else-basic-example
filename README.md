@@ -1,2 +1,2 @@
 # if-else-basic-example
-pass and fail program
+All programs
